@@ -2,35 +2,52 @@
 
 ## 📊 Project Overview
 
-This project presents an interactive Power BI dashboard designed to analyze insurance data, including premiums, claims, policy performance, and customer feedback. The report provides business insights through KPIs, visualizations, and sentiment analysis.
+This project presents an interactive Power BI dashboard designed to analyze insurance data, including premiums, claims, policy performance, customer demographics, and customer feedback. The dashboard provides meaningful business insights through KPIs, visualizations, drill-through analysis, and sentiment analysis to support data-driven decision-making.
 
 ---
 
 ## 🚀 Key Features
 
-* 📌 KPI Cards for Premium Amount, Claim Amount, and Coverage Amount
-* 📊 Interactive dashboard with dynamic filtering and slicers
-* 🔍 Drill-through analysis by Policy Type for detailed insights
-* 💬 Customer feedback sentiment analysis (Positive, Negative, Neutral)
-* 📈 Visualizations for claims, policies, and demographic analysis
+- 📌 KPI Cards for Premium Amount, Claim Amount, and Coverage Amount
+- 📊 Interactive dashboard with dynamic filtering and slicers
+- 👥 Customer demographic analysis by gender
+- 🛡️ Active vs Inactive policy analysis
+- 📈 Premium analysis by policy type
+- 💰 Claim analysis by age group and claim status
+- 🔍 Drill-through analysis by Policy Type for detailed insights
+- 💬 Customer feedback sentiment analysis (Positive, Negative, Neutral)
+- 🎯 Business insights panel for quick decision-making
+
+---
+
+## ✨ Recent Enhancements
+
+- Redesigned dashboard UI with a modern and professional layout
+- Enhanced KPI cards with improved visual hierarchy
+- Added business insights section for quick interpretation
+- Improved sidebar design and filtering experience
+- Optimized dashboard readability and user experience
+- Refined chart placement and visual consistency
 
 ---
 
 ## 🧠 Business Insights
 
-* Identifies high-performing policy types based on premium contribution
-* Analyzes claim trends and claim status distribution
-* Evaluates customer satisfaction using sentiment analysis
-* Helps in understanding risk and improving decision-making
+- Travel policies generate the highest premium revenue.
+- Active policies account for the majority of total policies.
+- Rejected claims exceed settled and pending claims.
+- Adults contribute the highest claim amount among all age groups.
+- Customer distribution is balanced across genders.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* Power BI
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Data Visualization
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
+- Data Modeling
+- Data Visualization
 
 ---
 
@@ -38,25 +55,32 @@ This project presents an interactive Power BI dashboard designed to analyze insu
 
 The project uses the following datasets:
 
-* **Insurance Data** (policy details, premium, claims, coverage)
-* **Customer Feedback Data** (text feedback for sentiment analysis)
+- Insurance Data (Policy Details, Premium, Coverage, Claims)
+- Customer Feedback Data (Text Feedback for Sentiment Analysis)
 
 ---
 
 ## 📁 Project Structure
 
-```
 Insurance-Dashboard/
+
 │── Insurance_Dashboard.pbix
+
 │── datasets/
+
 │     ├── insurance_data.csv
+
 │     ├── customer_feedback.csv
+
 │── images/
+
 │     ├── dashboard_overview.png
+
 │     ├── policy_drillthrough_analysis.png
+
 │     ├── customer_sentiment_analysis.png
+
 │── README.md
-```
 
 ---
 
@@ -78,35 +102,43 @@ Insurance-Dashboard/
 
 ## 📈 Key KPIs
 
-* Total Premium Amount
-* Total Claim Amount
-* Total Coverage Amount
-* Customer Sentiment Distribution
+- Total Premium Amount
+- Total Claim Amount
+- Total Coverage Amount
+- Active vs Inactive Policies
+- Gender Distribution
+- Claim Status Distribution
+- Customer Sentiment Distribution
 
 ---
 
 ## 🎯 How to Use
 
 1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Interact with slicers and visuals to explore insights
+2. Open it using Power BI Desktop
+3. Explore the dashboard using slicers and filters
+4. Analyze policy performance, claim trends, and customer feedback
+5. Use drill-through pages for detailed policy insights
 
 ---
 
 ## 🔄 Future Enhancements
 
-* Integration with Power BI Service for online sharing
-* Advanced sentiment analysis using Text Analytics / AI
-* Improved dashboard UI and additional KPIs
+- Power BI Service deployment for online access
+- Advanced risk analysis and forecasting
+- Predictive analytics using Machine Learning
+- Real-time insurance data integration
+- Additional customer segmentation dashboards
 
 ---
 
-## 📌 Author
+## 👨‍💻 Author
 
-Srihari Donka
+**Srihari Donka**
 
----
+B.Tech - Artificial Intelligence & Data Science  
+SRKR Engineering College
 
-## 🔗 Connect with Me
+### 🔗 Connect With Me
 
-* LinkedIn: http://www.linkedin.com/in/sriharidonka
+LinkedIn: www.linkedin.com/in/sriharidonka
