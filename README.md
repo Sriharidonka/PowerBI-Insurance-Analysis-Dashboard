@@ -124,11 +124,9 @@ Insurance-Dashboard/
 
 ## 🔄 Future Enhancements
 
-- Power BI Service deployment for online access
-- Advanced risk analysis and forecasting
-- Predictive analytics using Machine Learning
-- Real-time insurance data integration
-- Additional customer segmentation dashboards
+- Power BI Service deployment for online sharing
+- Predictive analytics and risk forecasting
+- Enhanced customer segmentation
 
 ---
 
